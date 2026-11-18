@@ -7,13 +7,6 @@
 
 An asynchronous/recursive CLI web crawler built in Python that maps internal website links and exports structured crawl data to JSON.
 
-### 🛠️ Built With
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Tech Stack" />
-  </a>
-</p>
-
 ## ✨ Features
 - **Internal Link Discovery:** Parses HTML documents to extract and normalise anchor links within a target domain.
 - **Frequency Tracking:** Counts internal page references across the site structure.
